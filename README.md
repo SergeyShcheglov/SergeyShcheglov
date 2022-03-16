@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+About me
+
+My projects:
+
+Currently working on
+
+
+Reach me:
+linkd
+tg
+
 <!--
 **SergeyShcheglov/SergeyShcheglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
