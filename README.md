@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me
+## About me
 
 Check out my projects:
 1. meetupapp mvvm?
