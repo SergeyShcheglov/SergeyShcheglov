@@ -13,7 +13,9 @@ Currently working on
 
 
 ## Reach me:
-[![Linkedin](https://raw.githubusercontent.com/SergeyShcheglov/SergeyShcheglov/main/assets/linkedIn.png)](https://www.linkedin.com/in/sergey-shcheglov/) [![Telegram](https://raw.githubusercontent.com/SergeyShcheglov/SergeyShcheglov/main/assets/telegramLogo.png | height=36)](https://t.me/shcheglov1)
+[![Linkedin](https://raw.githubusercontent.com/SergeyShcheglov/SergeyShcheglov/main/assets/linkedIn.png)](https://www.linkedin.com/in/sergey-shcheglov/) 
+<img src="https://raw.githubusercontent.com/SergeyShcheglov/SergeyShcheglov/main/assets/telegramLogo.png" width="126" height="36" />(https://t.me/shcheglov1)
+
 
 <!--
 **SergeyShcheglov/SergeyShcheglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
