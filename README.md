@@ -2,7 +2,12 @@
 
 About me
 
-My projects:
+Check out my projects:
+1. meetupapp mvvm?
+2. rolldiceapp?
+3. messenger uikit?
+4. weather uikit mvc?
+5. some cool animations
 
 Currently working on
 
