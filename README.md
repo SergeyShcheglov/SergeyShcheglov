@@ -13,7 +13,7 @@ Currently working on
 
 
 ## Reach me:
-[![Linkedin](https://raw.githubusercontent.com/SergeyShcheglov/assets/main/linkedIn.png)](https://www.linkedin.com/in/sergey-shcheglov/)
+[![Linkedin](https://raw.githubusercontent.com/SergeyShcheglov/SergeyShcheglov/blob/main/assets/linkedIn.png)](https://www.linkedin.com/in/sergey-shcheglov/)
 
 <!--
 **SergeyShcheglov/SergeyShcheglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
