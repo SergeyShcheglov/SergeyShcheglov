@@ -12,9 +12,8 @@ Check out my projects:
 Currently working on
 
 
-Reach me:
-linkd
-tg
+## Reach me:
+[![Linkedin](https://raw.githubusercontent.com/SergeyShcheglov/assets/master/linkedIn.png)](https://www.linkedin.com/in/sergey-shcheglov/)
 
 <!--
 **SergeyShcheglov/SergeyShcheglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
