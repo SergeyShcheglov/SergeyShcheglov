@@ -9,7 +9,7 @@
 - iOS Developer
 - Open to work
 - Hobbies: brain and emotion science, happiness and well-being :lotus_position_man:	
-- Resume
+- <a href = "https://docs.google.com/document/d/1EplnU0U4-HQYLG4FjgirU8op5VE47XGo/edit?usp=sharing&ouid=113583911612234491859&rtpof=true&sd=true"> Resume </a>
 
 ---
 
