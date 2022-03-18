@@ -11,22 +11,18 @@
 ---
 
 ### Check out my projects:
-1. MeetupApp(https://github.com/SergeyShcheglov/MeetupApp)
-2. RollDice(https://github.com/SergeyShcheglov/RollDice)
-3. MessengerApp(https://github.com/SergeyShcheglov/MessengerApp)
-4. WeatherApp(https://github.com/SergeyShcheglov/WeatherApp)
-5. CoolAnimations(https://github.com/SergeyShcheglov/CoolAnimations)
+<a href = "https://github.com/SergeyShcheglov/MeetupApp"> 1. MeetupApp </a>
+<a href = "https://github.com/SergeyShcheglov/RollDice"> 2. RollDice </a>
+<a href = "https://github.com/SergeyShcheglov/MessengerApp"> 3. MessengerApp</a>
+<a href = "https://github.com/SergeyShcheglov/WeatherApp"> 4. WeatherApp</a>
+<a href = "https://github.com/SergeyShcheglov/CoolAnimations"> 5. CoolAnimations </a>
 
 ---
 ## :hammer_and_wrench: Language and Tools:
 <div> 
-  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
  </div>
 
 ## :fire: My Stats:
