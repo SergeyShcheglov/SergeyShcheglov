@@ -11,16 +11,16 @@
 ---
 
 ### Check out my projects:
-<a href = "https://github.com/SergeyShcheglov/MeetupApp"> 1. MeetupApp </a>
-<a href = "https://github.com/SergeyShcheglov/RollDice"> 2. RollDice </a>
-<a href = "https://github.com/SergeyShcheglov/MessengerApp"> 3. MessengerApp</a>
-<a href = "https://github.com/SergeyShcheglov/WeatherApp"> 4. WeatherApp</a>
-<a href = "https://github.com/SergeyShcheglov/CoolAnimations"> 5. CoolAnimations </a>
+1. <a href = "https://github.com/SergeyShcheglov/MeetupApp"> MeetupApp </a>
+2. <a href = "https://github.com/SergeyShcheglov/RollDice"> RollDice </a>
+3. <a href = "https://github.com/SergeyShcheglov/MessengerApp"> MessengerApp</a>
+4. <a href = "https://github.com/SergeyShcheglov/WeatherApp"> WeatherApp</a>
+5. <a href = "https://github.com/SergeyShcheglov/CoolAnimations"> CoolAnimations </a>
 
 ---
 ## :hammer_and_wrench: Language and Tools:
 <div> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  </div>
