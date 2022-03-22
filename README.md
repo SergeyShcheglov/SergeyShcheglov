@@ -15,10 +15,9 @@
 
 ### Check out my projects:
 1. <a href = "https://github.com/SergeyShcheglov/MeetupApp"> MeetupApp </a>
-2. <a href = "https://github.com/SergeyShcheglov/RollDice"> RollDice </a>
-3. <a href = "https://github.com/SergeyShcheglov/MessengerApp"> MessengerApp</a>
+2. <a href = "https://github.com/SergeyShcheglov/CoolAnimations"> CoolAnimations </a>
+3. <a href = "https://github.com/SergeyShcheglov/HotProspect"> HotProspect</a>
 4. <a href = "https://github.com/SergeyShcheglov/WeatherApp"> WeatherApp</a>
-5. <a href = "https://github.com/SergeyShcheglov/CoolAnimations"> CoolAnimations </a>
 
 ---
 ## :hammer_and_wrench: Language and Tools:
