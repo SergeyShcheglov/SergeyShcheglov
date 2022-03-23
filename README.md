@@ -17,7 +17,7 @@
 1. <a href = "https://github.com/SergeyShcheglov/MeetupApp"> MeetupApp </a>
 2. <a href = "https://github.com/SergeyShcheglov/CoolAnimations"> CoolAnimations </a>
 3. <a href = "https://github.com/SergeyShcheglov/HotProspect"> HotProspect</a>
-4. <a href = "https://github.com/SergeyShcheglov/WeatherApp"> WeatherApp</a>
+4. <a href = "https://github.com/SergeyShcheglov/WhatFlower"> WhatFlower</a>
 
 ---
 ## :hammer_and_wrench: Language and Tools:
