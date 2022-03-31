@@ -6,7 +6,7 @@
 
 ## About me
 
-- iOS Developer
+- iOS Developer 
 - Open to work
 - Hobbies: brain and emotion science, happiness and well-being :lotus_position_man:	
 - <a href = "https://bit.ly/cv_shcheglov_github1"> CV </a>
