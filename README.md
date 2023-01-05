@@ -12,14 +12,6 @@
 - <a href = "https://bit.ly/cv_shcheglov_github1"> CV </a>
 
 ---
-
-### Check out my projects:
-1. <a href = "https://github.com/SergeyShcheglov/MeetupApp"> MeetupApp </a>
-2. <a href = "https://github.com/SergeyShcheglov/CoolAnimations"> CoolAnimations </a>
-3. <a href = "https://github.com/SergeyShcheglov/HotProspect"> HotProspect</a>
-4. <a href = "https://github.com/SergeyShcheglov/WhatFlower"> WhatFlower</a>
-
----
 ## :hammer_and_wrench: Language and Tools:
 <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
